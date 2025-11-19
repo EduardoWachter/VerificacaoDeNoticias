@@ -1,0 +1,2002 @@
+[
+  {
+    "titulo": "É falso áudio sobre intoxicação por metanol em hospital de Minas Gerais",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Janja disse que picanha será de graça para mais pobres",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post distorce ao sugerir derrota do Brasil na OEA; país apoiou candidato do México",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que metanol foi detectado em refrigerantes como Coca-Cola",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "É falso que JN noticiou 39 mortes e 600 casos de intoxicação por metanol; vídeo é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Unicamp não tem curso de Direito; eleição de ‘chapa de direita’ ocorreu na Unicap",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Anitta foi expulsa dos Estados Unidos por Trump",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "“Ozempic Shot” for Natural Fat Burning Is a Scam",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que o ministro Alexandre de Moraes chorou no STF e disse estar sendo perseguido pela direita",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso vídeo de Neymar declarando apoio a Lula; fala foi gerada por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Ana Maria, Datena, and Cid Moreira Used to Promote Fake Cure for Vision Problems",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Hospital Vila Nova Star registrou 20 casos de intoxicação por metanol",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo não mostra frota humanitária rumo a Gaza, mas festa de torcedores do Galatasaray",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Ivete criticou Nikolas Ferreira e foi expulsa do Programa do Ratinho",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Deepfake usa imagem de Bolsonaro para golpe da ‘vaquinha solidária’",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "“Resgate Fácil” Is a Scam That Falsely Promises to Refund Fraud Victims",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que o Governo Federal confirmou a volta do Horário de Verão",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Falta contexto em entrevista antiga de Dino sobre uso de cloroquina",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Wall Street Journal não publicou editorial “Lula: um desastre anunciado”",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpistas usam nome de Luciano Hang em falso projeto de investimento",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Pedido de ‘brigada de mil pessoas’ de Maduro ao MST é antigo; era para agricultura",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que UFPE abriu vagas exclusivas para o MST",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe site que promete indenização de R$ 15 mil a clientes da Caixa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe aplicativo que promete acertar números para ganhar na Loteria",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Brasil não foi o país que mais cresceu no último trimestre; imagem é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Trump não proibiu Janja de circular em Nova York nem restringiu seu visto",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Receita nega que notificará adultos que moram com pais sem pagar aluguel",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Auxílio a alcoólatras não existe; benefício por incapacidade do INSS é antigo",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Trump não cancelou o visto de Lula para a Assembleia Geral da ONU",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Não existem provas de que as eleições de 2022 foram fraudadas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que a Justiça Militar está prestes a prender Alexandre de Moraes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Site falso usa nome de Paulo Guedes para promover portal de investimentos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Bonner não disse que cumpriu a missão de eleger Lula; áudio é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "James Hetfield, vocalista do Metallica, não disse que vai pagar educação das filhas de Kirk",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Mick Jagger não foi a memorial de Charlie Kirk; imagem é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso que Brasil cortou todas as exportações para os EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Não há evidências de que pomada de assaduras clareie a pele",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Foto de Trump beijando adolescente foi gerada por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Rússia não atacou os EUA; post usa vídeo de 2022 sobre invasão à Ucrânia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo em que Bolsonaro fala que “parasita chinês” causa diabetes é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Fux não disse durante o voto que Moraes quer perseguir Jair Bolsonaro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso que Bolsonaro disse a Moraes estar “morrendo” e pediu internação imediata",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Biometria no INSS será adotada de forma gradual a partir de novembro de 2025",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Papa Leão 14 não recebeu bandeira do Brasil com rosto de Bolsonaro; face é de Carlo Acutis",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Luciano Hang não promoveu produto contra impotência sexual; vídeo é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Malafaia distorce Constituição ao dizer que STF não pode barrar anistia a Bolsonaro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Moraes tenha sido incluído na lista da Interpol e seja considerado foragido",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Luis Fernando Verissimo não escreveu texto “não acabo amizade por causa de política”",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falta contexto"
+  },
+  {
+    "titulo": "Autópsias citadas em estudo não provam que vacina da Covid causou mortes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Bope matou sobrinho de Flávio Dino em operação no RJ em 2022",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Moraes não disse que provas contra Bolsonaro foram forjadas; é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de César Tralli sobre saque de benefício social foi manipulado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo antigo é usado para alegar absolvição de Jair Bolsonaro; julgamento da trama golpista está em curso",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Janja tentou comprar mansão de US$ 15 milhões na Flórida",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "insustentável"
+  },
+  {
+    "titulo": "WhatsApp não premia usuários por avaliações de marcas; link é golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que avião do ministro do STF André Mendonça tenha sido sabotado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo que mostra ato pró-Bolsonaro em Brasília é de agosto e não tem relação com julgamento",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falta contexto"
+  },
+  {
+    "titulo": "Não há evidências de que suco com abacaxi e banana cure dores articulares",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Trump não criticou Lula e STF em português; vídeo foi feito com IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso vídeo que mistura fala de William Waack com discurso de Xi Jinping",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Trump não enviou frotas de navios e caças ao Brasil para prender Lula e Moraes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Felca não defendeu Lula em entrevista; vídeo foi criado por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Trump não disse “América está com vocês”, a Bolsonaro; vídeo é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É golpe anúncio de vagas nos Correios com salário de R$3.900",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Felca não fez vídeo denunciando exploração sexual na Ilha de Marajó; conteúdo é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Bolsonaro não recebeu homenagem militar nos EUA; vídeo foi feito por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Maduro não mandou soltar presos nem sugeriu renúncia; trecho era de discurso de 1902",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso que Interpol deu ordem de prisão a Alexandre de Moraes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Imagem de líderes europeus tomando “chá de cadeira” na Casa Branca é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É IA vídeo de ex-presidente da Anvisa recomendando tratamento para dores",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe venda de “shot de Ozempic” que promete queima natural de gordura",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Barroso não mandou fabricar chips para fraudar urnas em 2022",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Alcolumbre não pediu afastamento nem ficará seis meses fora do Senado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Ivermectina não previne ou trata gripe; fármaco é indicado contra vermes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É IA vídeo em que Maduro promete renunciar se puder fugir para a Rússia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de manifestação de brasileiros na Times Square foi gerado por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso o vídeo em que Zezé di Camargo declara apoio a Lula",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Vídeo mostra protesto na Flórida e não queda do governo Maduro pelos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Putin não mencionou o Brasil ou Lula em discurso ao lado de Trump nos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Governo não fechou Farmácia Popular; drogarias não renovaram programa",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post utiliza vídeos de jogadores do São Paulo para aplicar golpe da camisa grátis",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Xiaomi não está oferecendo mil celulares de graça; site é golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Protesto de venezuelanos é de 2024, no Panamá e não tem relação com Trump",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É de 2022 decisão do STF de suspender dívida de R$ 18 milhões de Lula",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeos em que Romário declara apoio a Lula foram gerados por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Ministro Fux não espionou nem criou dossiê contra Moraes; vídeo é ficção gerada por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso que água com gás aumenta a pressão arterial",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Beber água alcalina não cura a dengue",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que suco de pepino com cenoura cure catarata ou glaucoma",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Não há provas de que EUA estejam monitorando Moraes; áudio em vídeo é falso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeos com IA usam Ivete Sangalo e Fátima Bernardes para falso discurso em defesa de Lula",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe vídeo que promete Bolsa Família para quem ganha até R$ 5 mil",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Mercado Livre não oferece Pix de R$ 100 para Dia dos Pais; site é golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É IA imagem que mostra Paul McCartney visitando Phil Collins em hospital",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post que atribui críticas de Gilmar Mendes à ‘Vaza Toga’ é enganoso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que militar delatou supostos mandantes da facada em Bolsonaro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Trump mandou exército americano prender Alexandre de Moraes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Vladimir Putin declarou apoio militar da Rússia ao Brasil",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Lewandowski tenha criticado Moraes em carta aos EUA sobre bloqueio da Rumble",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo que mostra ‘deputado’ em entrevista com esparadrapo no rosto é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Vídeo não mostra filha de Barroso sendo escoltada por policiais em aeroporto",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Ministro André Mendonça não defendeu Bolsonaro no STF; áudio foi editado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que a Europa congelou bens de Alexandre de Moraes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Trump tenha colocado bandeira do Brasil na Casa Branca em apoio a Bolsonaro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Shein não está premiando usuários com peças grátis; link é golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe ‘vaquinha’ em apoio à greve de caminhoneiros; líder nega paralisação",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Post engana ao ligar Mapa da Fome a ranking do FMI",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Brasil perdoou dívida de R$ 10 bilhões da Venezuela",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Famílias deixaram Bolsa Família por aumento na renda, não por corte do governo",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Deepfake de paciente com câncer é usada em golpe da falsa vaquinha",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "G1 não revelou que Nikolas Ferreira desviou dinheiro do SUS",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que a Pepsi esteja deixando os EUA devido a tarifas de Trump",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo não mostra filha de Barroso sendo algemada nos EUA para deportação",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Barroso e Moraes não fugiram para Roma para evitar a Lei Magnitsky",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Bolsonaro está elegível após suspensão de ordens de prisão",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Bill Gates não inaugurou biofábrica de mosquitos em Curitiba",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Moraes não mandou fechar o Congresso Nacional; Parlamento está em recesso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo manipula imagem de Preta Gil para vender produto emagrecedor",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É golpe indenização do Facebook a vítimas de fraudes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É IA vídeo de Renata Vasconcellos sobre greve de caminhoneiros em SP",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Post usa falsa acusação de fraude contra Joaquim Barbosa para promover plataforma de criptomoedas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Trump não disse ser amigo de Bolsonaro nem que virá buscá-lo",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpe no Facebook usa vídeo falso sobre o PIX e promessa de indenização",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso que Trump cancelou visto de Anitta e outros artistas brasileiros",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Lula anunciou o confisco da poupança; boato é antigo",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpe usa Edir Macedo para promover site falso de criptomoedas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É golpe post que promete resgate de dinheiro via CPF em notas fiscais",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de ato bolsonarista em Brasília é de 2022, não de julho de 2025",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Imagem de Lula beijando a mão de Xi Jinping foi criada por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Vídeo mostra invasão a depósito da ONU, não a armazém do Hamas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Preta Gil zombou de Bolsonaro por uso de bolsa de colostomia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Discurso atribuído a Ibrahim Traoré com menção a Lula é falso e foi criado com IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Publicação engana ao dizer que Flávio Bolsonaro está foragido",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que filha do ministro Luís Roberto Barroso será deportada dos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso vídeo de Trump em português apoiando Bolsonaro e atacando o STF",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Não há evidências de que vacina contra Covid agravou câncer de Preta Gil",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que a Índia anunciou saída do Brics",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Trump ameaçou prender Lula por enviar urânio ao Irã",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É golpe site que se passa pelo Mercado Livre e oferece armas a preços promocionais",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Homem que critica Lula e STF em vídeo é desembargador aposentado",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Coronavac não foi ineficaz; reportagem sobre vacinas vencidas é de 2021",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Presidente do México não sugeriu boicote a produtos dos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que a PF tenha apreendido joias na casa de Nikolas Ferreira",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpe usa vídeos com Alckmin, Haddad e Bonner promovendo falsa indenização da Caixa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post engana ao alegar aumento de salário e criação de novos cargos no STF",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Trump não chamou governo Lula de ‘fraco e corrupto’; áudio é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É golpe site que se passa pela CNN e forja notícia sobre Nikolas Ferreira",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Não há evidências de gasto de R$ 2 bi em polo de biotecnologia na Amazônia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeos distorcem Código Penal e Lei Maria da Penha sobre furto entre cônjuges",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Criminosos usam deepfake de Mion e vídeo de criança com doença para aplicar golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe quiz que oferece fraldas Pampers; site não é oficial da empresa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Cristiana Lôbo não é autora de texto sobre ‘populismo socialista’ de Lula",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de suposta juíza dos EUA criticando Moraes foi criado por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Golpe usa nome da Xiaomi e promete Poco X7 Pro para quem responder a quiz",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Deepfake usa imagem de Rodrigo Faro e promete falsa indenização do Nubank",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Montagem usa nome do Estadão e Itaú para promover falsa plataforma de investimentos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Janja e cantor Leonardo tenham trocado ofensas nas redes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Imagem das Cataratas do Niágara em ‘vermelho sangue’ foi criada com IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe publicações que prometem desconto de 95% em produtos na Shopee",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Site falso se passa por banco indiano para aplicar golpes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Dino não anulou sentença em benefício próprio; decisão é de juiz federal",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que vídeo mostre fuga por guerra entre Israel e Irã; cena é de coleta de cogumelo raro no Nepal",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falta contexto"
+  },
+  {
+    "titulo": "Vídeo não mostra resgate de corpo de turista brasileira na Indonésia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso anúncio de processo seletivo emergencial para agentes temporários do Exército",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Site imita portal do governo e promete indenização de até R$ 13,5 mil",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que vídeo mostre lista de deputados envolvidos em fraude no INSS",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Não há registros de que Bill Gates defende reduzir a população mundial",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Falsa vaquinha em nome de Juliana Marins é usada para aplicar golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Lula estava bêbado em reunião do G7; vídeo foi manipulado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Governo Trump não está investigando Brasil por venda de urânio ao Irã",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Publicações virais distorcem decisão do STJ sobre furto de celular",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Trump não chamou Lula de ‘escândalo ambulante’; vídeo é IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que governo federal vai cobrar IPVA sobre bicicletas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Netanyahu não acusou ‘país ocidental’ de fornecer urânio ao Irã em entrevista à Fox News",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Trump não apresentou projeto de lei para permitir recusa de atendimento médico a democratas",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Sites fraudulentos voltam a usar advogados para se passar pelos Correios",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que a FIFA excluiu os EUA como país sede da Copa de 2026",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falsa mensagem atribuída ao Papa Leão 14 sobre oração ao Oriente Médio",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que o Brasil forneceu urânio enriquecido para o Irã fabricar bombas nucleares",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Projeto da direita que desobriga vacinação é antigo e já foi arquivado",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Padre Marcelo Rossi não recomendou produto para visão; vídeo é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que os ataques de Israel contra o Irã não tenham deixado civis mortos ou feridos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Criminosos imitam site do Mercado Livre para aplicar golpes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Post fraudulento usa imagem do jogador De Arrascaeta para aplicar golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpe simula site do Sicoob para oferecer falso empréstimo",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Aumento de limite de crédito para R$ 6.100,00? É golpe; site usa identidade visual do Nubank",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe programa ‘Brasil Mais Limpo’, que promete vagas de gari",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É uma sátira post sobre juiz que concedeu habeas corpus à Carla Zambelli",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É golpe post que promete indenização a clientes do Banco do Brasil por dados vazados",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Juiz que morreu em SE não investigava fraude do INSS e nem citou irmão de Lula no caso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Posts enganam ao afirmar que Léo Lins foi condenado por lei criada por Lula",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que a vacina da dengue seja parte de um experimento letal",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Macron cumprimentou Janja com selinho em visita à França",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que não houve prisões por fraude no INSS",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Magazine Luiza não está oferecendo 98% de desconto para quem fizer uma avaliação online da loja",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Feirão Limpa Nome da Serasa já foi encerrado; posts promovem fraudes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que a Câmara suspendeu processo de golpe de estado no STF",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Deepfakes voltam a usar Nikolas Ferreira para promover falsa indenização do Nubank",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Justiça dos EUA não pediu bloqueio de bens de Gilmar Mendes em Portugal",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe página que promete acesso à “CNH Social Digital 2025”",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Papa Leão 14 não enviou mensagem a Ibrahim Traoré nem ao povo africano",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo não mostra entrega de ajuda humanitária da China à Faixa de Gaza",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Golpistas usam menina Isabella em golpe de falsa campanha",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo de Drauzio Varella recomendando remédio para impotência é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Deepfake usa imagem de Drauzio Varella para promover produto que promete curar neuropatia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo engana ao medir concentração de açúcar em bebidas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe site da Caixa que simula consulta de indenização da Receita",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "MEC não promoveu o programa ‘Agente Escola do Futuro’; anúncio é golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Post sobre indenização de R$ 30 mil da Serasa é golpe repaginado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe quiz que oferece Bíblia gratuita",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Não há registros de que o Papa Leão 14 tenha criticado o comunismo",
+    "classificacao_oficial": "insustentável",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Papa Leão 14 elogiou Nikolas Ferreira",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpe usa vídeo manipulado de Ratinho para cobrar por cartão Blue Bird",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Golpe usa promoção antiga do Outback com Zeca Camargo para promover falso rodízio",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Papa Leão 14 fez o gesto de “L” em sua primeira aparição pública",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Jornal Nacional não exibiu reportagem sobre indenização paga pelo Nubank",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Vaticano entoou 'louvor a Lúcifer'",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Jornal Nacional não exibiu reportagem que inocenta Bolsonaro de tentativa de golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe anúncio de venda de bebê reborn a R$ 99,90 pelo Mercado Livre",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeos usam IA para espalhar narrativa falsa sobre renúncia de Maduro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falsa imagem de Lula com camiseta dos ‘Irmãos Metralha’",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post enganoso acusa homem não identificado de ser foragido perigoso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falta contexto"
+  },
+  {
+    "titulo": "Mauriti (CE) não usa água da transposição do rio São Francisco",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpe usa anúncios para promover falso cartão do Mercado Livre com limite de até R$ 14 mil",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Miriam Leitão não defendeu rombo no INSS como ‘luz no fim do túnel’ para controle da inflação",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Imagem de “careca do INSS” e Jair Bolsonaro em motocicleta é falsa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que câncer na tireoide é evitado com casca de melão com gengibre",
+    "classificacao_oficial": "exagerado",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Empresa suspeita de pagar cartão de Michelle Bolsonaro não é citada em fraude do INSS",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que PF encontrou ‘quarto secreto de Lula com dinheiro do INSS’",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Drauzio Varella não recomendou produto para visão; vídeo é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post sobre indenização do Nubank a clientes é golpe repaginado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Lewandowski não disse que é ‘melhor gastar com câmeras do que reajustar salários’ da polícia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo não mostra Macron com cocaína, trata-se de um lenço de papel",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post distorce medida da prefeitura de Palmas sobre solicitação de exames médicos",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Policlínica de Botafogo não está oferecendo cirurgia de catarata gratuita pelo SUS",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe lista atribuída ao INSS que promete consulta a indenizações",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Pearl Jam não tem show marcado no Brasil; venda de ingresso é golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Janja foi flagrada com malas de dinheiro vivo na Rússia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Golpe usa imagem de criança com paralisia para mentir sobre vacina e pedir dinheiro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que o Brasil vive um surto de Covid e o governo omite os dados",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Papa Leão 14 citou Bolsonaro em sua primeira missa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Zinco, dente-de-leão e chá de agulhas de Pinheiro-branco não eliminam proteína Spike do corpo",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que ‘pais de pet’ terão que pagar imposto por cães e gatos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo de Trump chamando Lula de ‘palhaço’ foi manipulado por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É IA imagem em que Trump aparece com novo Papa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Bebida com limão, maçã, couve, alho e mel não previne ou cura a dengue",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que intervalo de uma hora para almoço foi extinto",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Governo não subiu para 78 anos a idade mínima para aposentar; trata-se de uma projeção do Banco Mundial",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Donald Trump não disse que Bolsonaro ‘faz de tudo para enganar a Justiça’",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpistas usam vídeo antigo de menina que morreu de câncer em fraude da vaquinha",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo não mostra mulher de Gilmar Mendes agredindo repórter da Band",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que governo Lula derrubou lei de combate a fraudes no INSS",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe site que promete indenização por fraude no INSS; vídeo é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Andréia Sadi não questionou liberdade de Lula ao vivo na GloboNews",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que EUA enviaram apenas Trump e Melania para funeral do Papa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falta contexto"
+  },
+  {
+    "titulo": "É falso que Papa Francisco deixou Lamborghini e patrimônio milionário",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Janja não foi impedida de viajar ao Vaticano para funeral do Papa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que episódio de Os Simpsons previu morte do Papa Francisco",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Governo não distribui R$ 4 mil para vítimas de golpe; vídeo é deepfake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Deepfakes de Luciano Huck e Sabrina Sato são usadas em ‘golpe do cartão’ do Mercado Livre",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Golpe usa falsa promoção do Mercado Livre para ofertar notebook por R$13",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Não há provas de golpe com falsos avisos de multa do Detran",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Lula não forjou entrega de habitação usando casa cenográfica em estúdio",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Afirmação sobre CPI do MST na Bahia ignora decisão final da Justiça",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que inventor do Zimbábue criou carro movido a ondas de rádio",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que autópsia em Singapura revelou que Covid-19 é causada por bactéria exposta à radiação",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Post viral usa montagem com fotos antigas para enganar sobre saúde de Bolsonaro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Médicos usam argumentos falsos para atacar vacina da Covid em crianças",
+    "classificacao_oficial": "exagerado",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Deepfake simula fala falsa sobre sanções dos EUA se Bolsonaro for preso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Zelensky bloqueou a rede social de Trump na Ucrânia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo comparando inglês de Lula e Bolsonaro foi manipulado por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Vacinas contra Covid-19 não reduzem plaquetas nem aumentam risco de morte por dengue",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Cirurgia de Bolsonaro para desobstruir intestino não estava marcada há 2 anos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Exigência de visto para estadunidenses não é decisão atual, mas foi pensada pelo governo desde 2023",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post engana ao usar estudo preliminar da Cleveland Clinic para afirmar que vacina da gripe é ineficaz",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falta contexto"
+  },
+  {
+    "titulo": "Site falso se passa pela Cacau Show para aplicar golpe de Páscoa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo em que Gilmar Mendes nega tentativa de golpe é antigo",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Nubank está oferecendo indenização de R$10 mil para clientes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que lei federal isente pedágio em filas acima de 300 metros",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe anúncio que promete kit de airsoft grátis ao responder quiz",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Perfis no Facebook simulam canais do Governo Federal para aplicar golpe de phishing",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso vídeo em que Lula admite roubo; fala de 2023 foi editada",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Trechos da Bíblia não serão proibidos por serem considerados discurso de ódio; vídeo foi editado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Lula seja o líder mundial menos escolarizado; mapa é enganoso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Trump não telefonou para Bolsonaro durante ato pela anistia em São Paulo",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de multidão rezando é de 2022, não de ato por anistia na Paulista",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Moraes perdeu imóveis e US$ 11 milhões em banco nos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Folha não publicou que Monitor da USP não divulgaria estimativa de público de ato pró-anistia em São Paulo",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Malafaia não participou do “Conversa com Bial” nem promoveu plataforma de investimento",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Mulher que pichou estátua da Justiça com batom não foi condenada; julgamento está suspenso no STF",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Governo Lula não direcionou R$ 15 bilhões para a Lei Rouanet em 2024",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que PL conseguiu acordo para impedir a cassação de Carla Zambelli",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Entrada do parque Yellowstone não foi bloqueada por ursos; imagem foi feita com IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vermes não vivem dentro de coco verde; vídeo é enganoso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de show foi gravado durante a Marcha Transmasculina, e não em um ato contra a anistia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo distorce informações sobre pagamentos a Lula e Dilma como anistiados políticos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Primeiro-ministro do Japão, Shigeru Ishiba não chamou Lula de ‘maior estadista da história’",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Ana Maria, Datena e Cid Moreira são usados para vender falsa cura de doenças da visão",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "‘Resgate Fácil’ é golpe que promete reembolsar vítimas de fraudes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo falso usa Nikolas Ferreira e Lucas Polese para golpe de indenização",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Recall de gel da L’Oréal por contaminação de benzeno não foi no Brasil",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que ato na Paulista contra anistia reuniu 1,5 milhão de pessoas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe post que pede doação para menina com epidermólise bolhosa",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo que revela ‘verdade das pirâmides’ no Egito foi feito com IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Site imita portal gov.br para aplicar golpe de ‘valores a receber’",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Fórum Econômico Mundial não orientou proibição de hortas caseiras por emissão de CO2",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Japão barrou Janja de encontros entre Lula e Fumio Kishida",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Elon Musk criou robô que possui íris humana",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Promoção com ‘Desafio da Memória’ usa Cacau Show para aplicar golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpistas usam deepfake de Bolsonaro em fraude do dinheiro esquecido",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Deepfake usa imagem de Haddad para aplicar golpe de ‘valores a receber’",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Israel não aprovou lei para prender cristãos por citar Jesus",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que governo federal ordenou saída temporária de 28,2 mil detentos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Imagem de Giovanna Ewbank é manipulada com IA para venda de “produto milagroso”",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Musk não descobriu transação ilegal de US$ 8 milhões de Moraes nos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Estudo da USP sobre máscaras na Covid-19 é inconclusivo e gera desinformação",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Deepfake usa vídeo de Lula para promover golpe da falsa indenização",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Decisão de zerar ICMS de alimentos em SP é anterior ao governo Tarcísio",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "O Superior Tribunal de Justiça não recebeu carros doados da empresa chinesa BYD",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe leilão de celulares; sites falsos se passam pelo G1 e Amazon",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Jair Bolsonaro teve passaporte liberado pelo STF",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Imagem de multidão em ato de Bolsonaro no Rio é de 2024",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Caso arquivado pela Justiça não prova que Alexandre de Moraes tenha imóveis e contas milionárias nos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Bebida com inhame, limão, laranja e chá de baleeira não “cancela” sintomas da dengue",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "insustentável"
+  },
+  {
+    "titulo": "Post com pedido de oração pela Síria atribuído ao Papa é fake",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "‘Ainda Estou Aqui’ não foi financiado pelo BNDES",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo em que homem diz ter orgulho da prisão de Lula foi editado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que governo decretou o fim das férias consecutivas de 30 dias",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que homem tenha sido expulso de supermercado por trocar etiquetas de preço",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Mauro Cid nunca usou a palavra ‘golpe’ em delação",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Chefe Jamie Oliver não processou McDonald’s pelo uso de amônia em alimentos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Marçal divulgou plataforma de investimentos em criptomoeda no Roda Viva",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Atriz Mikey Madison, vencedora do Oscar, não criticou subsídios à cultura",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É golpe e-mail atribuído à Receita Federal sobre pendência no CPF",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que inscrições para ‘Enem dos concursos’ 2025 estão abertas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de Paulo Henrique Ganso, do Fluminense, é manipulado por IA para aplicar golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Deepfake usa vídeo de advogado para promover golpe da falsa indenização",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Imagem do Papa Francisco deitado em cama foi criada com inteligência artificial",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo de cratera na Sagrada Família, em Barcelona, foi criado por IA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Moraes defendeu atear fogo ao STF antes de ser ministro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Papa sugeriu 15 ações de caridade em vez de jejum na Quaresma",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que Barack Obama protocolou pedido de impeachment de Donald Trump",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "TSE não destruiu milhares de urnas para “queimar arquivo” sobre fraudes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Matheus Nachtergaele não promoveu bitcoins em entrevista a Pedro Bial",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Post engana ao culpar Haddad e Lula por reajuste do imposto de MEIs",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de público em show de Ivete Sangalo gritando ‘Lula’ é de 2022",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falsa alegação de pagamentos a pensionistas com mais de 300 anos nos EUA",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso que operadora TIM deixará de operar no Rio de Janeiro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Fala de Trump sobre brasileiros ‘contaminando’ os EUA é de 2020",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Gleisi Hoffmann não foi alvo de protesto no carnaval de Salvador",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Imagem de Papa respirando com aparelhos foi criada com inteligência artificial",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É golpe ferramenta que promete espionar contas no Instagram",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post usa deepfake de advogada para aplicar golpe do benefício do CPF",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "É falso que “verme diabético” provoca diabetes tipo 2",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Polícia Federal descartou envolvimento de Jair Bolsonaro em tentativa de golpe",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Documentos citados por Marcos do Val não provam fraude em eleição de 2022",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de senhora xingando Lula com palavras obscenas é falso; áudio foi editado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Bolsa Família não influencia no cálculo da taxa de desemprego pelo IBGE",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Arrastão não foi causa de fugas em túnel do Rio; vídeo é de 2023",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Financial Times disse que Biden fraudou eleição de 2022",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É de 2017 decisão do STF que indeniza preso exposto a situação degradante",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que PGR pediu que Bolsonaro use tornozeleira; pedido partiu de deputado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post engana ao dizer que William Bonner se arrepende de apoiar Lula",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que governo Lula irá ofertar carne de jumento em presídios",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que pessoas nascidas entre 1960 e 2006 têm indenização a receber",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Lei sancionada por Lula prorroga idade máxima para carros de autoescolas",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que auxílio-reclusão rende R$ 40 mil por 14 meses na prisão",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Miriam Leitão não foi presa por assalto a banco nem recebeu anistia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É de 2020 vídeo que traz alarme da OMS sobre novo coronavírus",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Justiça não devolveu armas a criminosos; homens em vídeo que circula não cometeram crimes e os itens são de pressão",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Elon Musk publicou gráfico provando que Bolsonaro venceu em 2022",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que Lula foi chamado de ‘ladrão’ no Amapá; vídeo foi manipulado",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vacinas com mRNA contra a Covid-19 não causam morte súbita ou autismo",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Deepfake usa imagem de Angélica para aplicar golpe de valores a receber",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que houve tiroteio em shopping de Orlando; disparo foi acidental",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "É falso que STF e TSE manipularam a eleição de 2022 para eleger Lula",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "É falso que vacinas contra dengue e gripe sejam contaminadas com grafeno",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Caldo de cana, água de coco e fórmulas manipuladas não curam a dengue",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É de 2017 fala de Alckmin sobre problema do Brasil ser “falta de dinheiro”",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Golpe simula perfil de camarote da Sapucaí para vender ingressos falsos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Não há comprovação de que suplementos naturais possam reverter o diabetes tipo 2",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo de ratos em Londres é falso e foi gerado com inteligência artificial",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Não há evidências de que avião que caiu em SP era do PCC",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo engana ao afirmar que obra da ponte de Xambioá (TO) está parada há dois anos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo de ‘venda de calangos’ não foi gravado no Brasil; publicação é da Indonésia",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Drauzio Varella não recomendou suco de beterraba para a saúde; áudio é falso",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Governo não cedeu controle de terras indígenas para empresa privada",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo de Lula sendo chamado de ‘ladrão’ no Congresso é de 2023",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Donald Trump não proibiu presença de homossexuais em transportes públicos",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "erro"
+  },
+  {
+    "titulo": "Deepfake de Nikolas Ferreira é usada em golpe de falsa indenização",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Post erra ao sugerir que Lula vetou pensão para crianças com microcefalia criada por Bolsonaro",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "É falso que PEC 51, de Lindbergh Farias, defendia o desarmamento de policiais",
+    "classificacao_oficial": "falta contexto",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Post sobre proibição do Islã em vários países contém informações falsas",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo com militares cantando contra o STF e Moraes é uma montagem",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Deepfake usa vídeo de Gottino para promover golpe da falsa indenização",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "exagerado"
+  },
+  {
+    "titulo": "Ultrapassagem em faixa contínua não gera suspensão imediata da CNH",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Imagem de imigrante preso em 2018 foi editada para incluir mensagem pró-Trump",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Golpe de falsa taxa dos Correios volta a circular nas redes",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  },
+  {
+    "titulo": "Vídeo de tropas venezuelanas mostra exercício militar, não invasão ao Brasil",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "verdadeiro"
+  },
+  {
+    "titulo": "Vídeo de cadáveres jogados de caminhão foi gravado na Colômbia; não há relação com Maduro",
+    "classificacao_oficial": "falso",
+    "classificacao_modelo": "falso"
+  }
+]
